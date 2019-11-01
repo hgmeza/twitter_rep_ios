@@ -1,6 +1,6 @@
-# *Twitter Replica App*
+# Twitter - Part I
 
-**Twitter Replica** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **6** hours spent in total
 
